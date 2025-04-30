@@ -1,0 +1,9 @@
+﻿  Car.cpp
+G:\Programming\source\repos\Lab_4_Car\Lab_3_Car\Car.cpp(25,16): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+  Lab_3_Car.cpp
+  MyString.cpp
+  Tabl.cpp
+  Создание кода...
+G:\Programming\source\repos\Lab_4_Car\Lab_3_Car\MyString.cpp(34): warning C4172: возвращение адреса локальной или временной переменной : err
+G:\Programming\source\repos\Lab_4_Car\Lab_3_Car\MyString.cpp(101): warning C4172: возвращение адреса локальной или временной переменной : tmp
+  Lab_3_Car.vcxproj -> G:\Programming\source\repos\Lab_4_Car\Debug\Lab_3_Car.exe
